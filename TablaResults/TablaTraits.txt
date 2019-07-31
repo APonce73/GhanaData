@@ -1,0 +1,24 @@
+"ID_spp"	"NAME_SCIENT"	"Consumo_1"	"Consumo_2"	"Consumo_3"	"Part_Plant_1"	"Part_Plant_2"	"Part_Plant_3"	"Part_Plant_4"	"Part_Plant_5"	"Part_Plant_6"	"Part_Plant_7"	"Part_Plant_8"	"Part_Plant_9"	"Usos_1"	"Usos_2"	"Usos_3"	"Usos_4"	"Usos_6"	"Ventas_1"	"Ventas_2"	"Ventas_3"
+"1"	"spp_1"	"Abelmoschus esculentus"	1	1	1	1	1	0	0	0	0	1	0	0	1	1	0	0	1	1	1	0
+"2"	"spp_2"	"Arachis hypogaea"	1	1	1	1	1	0	0	0	1	0	0	0	1	1	0	0	1	1	1	1
+"3"	"spp_3"	"Capsicum annuum"	1	1	1	1	1	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0
+"4"	"spp_4"	"Citrullus lanatus"	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1
+"5"	"spp_5"	"Dioscorea bulbifera"	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+"6"	"spp_6"	"Dioscorea spp"	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	1	1	1	1
+"7"	"spp_7"	"Ekebergia capensis"	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+"8"	"spp_8"	"Glycine max"	0	0	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+"9"	"spp_9"	"Hibiscus asper"	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"10"	"spp_10"	"Hibiscus cannabinus"	1	1	1	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+"11"	"spp_11"	"Ipomoea batatas"	0	1	1	1	1	0	1	0	0	0	1	1	1	1	0	0	0	1	1	1
+"12"	"spp_12"	"Lycopersicon esculentum"	1	1	1	1	1	0	0	0	0	1	0	0	1	0	1	0	0	1	1	0
+"13"	"spp_13"	"Oryza sativa"	1	1	1	1	0	0	0	0	0	0	0	0	1	1	0	0	1	1	1	1
+"14"	"spp_14"	"Pennisetum glaucum"	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	1	0	1	1	1
+"15"	"spp_15"	"Plectanthus rotundifolius"	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+"16"	"spp_16"	"Senna obtusifolia"	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"17"	"spp_17"	"Solanum melongena"	1	0	1	1	0	0	0	0	0	1	0	0	1	1	1	0	0	1	1	0
+"18"	"spp_18"	"Sorghum bicolor"	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	1	1	1	1	1
+"19"	"spp_19"	"Telfairia occidentalis"	1	0	1	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+"20"	"spp_20"	"Vigna subterranea"	1	1	1	1	1	0	0	0	0	0	0	0	1	1	0	0	1	1	1	1
+"21"	"spp_21"	"Vigna unguiculata"	1	1	1	1	1	0	0	0	0	0	0	0	1	1	0	0	1	1	1	1
+"22"	"spp_22"	"Xanthosoma maffafa"	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+"23"	"spp_23"	"Zea mays"	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	1	1	1	1	1
