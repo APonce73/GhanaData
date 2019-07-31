@@ -3,7 +3,9 @@ library(readxl)
 library(ggrepel)
 library(haven)
 library(vegan)
-library(FD)
+library(FD) # un paquete para la diversidad funcional, posiblement se va a eliminar
+
+
 
 Tabla1 <- read_xlsx( path = "Indice_Valor_Uso_Ghana.xlsx", sheet = "Data_R", col_names = T)
 
